@@ -1,5 +1,5 @@
 # AiArt
-DCGAN para generar Arte utilizando un DCGAN generado sobre la arquitectura de PyTorch
+Proyecto para generar Arte utilizando un DCGAN generado sobre la arquitectura de PyTorch
 # Como correr el Notebook
 
 - Clonar o Descargar el NoteBook '*.ipynb'
