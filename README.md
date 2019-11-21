@@ -1,7 +1,10 @@
 # AiArt
 DCGAN para generar Arte utilizando un DCGAN generado sobre la arquitectura de PyTorch
 # Como correr el Notebook
-- En primer lugar, recomendamos altamente utilizar el Servicio de Colab para no tener que usar una Tarjeta Grafica ni memoria nativa. 
+
+- Clonar o Descargar el NoteBook '*.ipynb'
+
+- Recomendamos altamente utilizar el Servicio de Colab para no tener que usar una Tarjeta Grafica ni memoria nativa. 
 
 - Luego, ir a https://www.kaggle.com/<YourAccount>/account y generar una nueva llave de API. El programa lo requerira en la primera linea.
 
